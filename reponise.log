@@ -1,0 +1,38 @@
+2019/11/10 17:12:25 [78735] receiving file list
+2019/11/10 17:12:25 [78735] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:12:36 [78816] receiving file list
+2019/11/10 17:12:36 [78816] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:09 [78969] receiving file list
+2019/11/10 17:14:09 [78969] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:14 [79037] receiving file list
+2019/11/10 17:14:14 [79037] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:19 [79105] receiving file list
+2019/11/10 17:14:19 [79105] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:21 [79162] receiving file list
+2019/11/10 17:14:21 [79162] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:32 [79246] receiving file list
+2019/11/10 17:14:32 [79246] sent 30 bytes  received 68 bytes  total size 0
+2019/11/10 17:14:35 [79353] receiving file list
+2019/11/10 17:14:35 [79353] sent 30 bytes  received 68 bytes  total size 0
+2019/11/10 17:14:43 [79436] receiving file list
+2019/11/10 17:14:43 [79436] sent 36 bytes  received 87 bytes  total size 3
+2019/11/10 17:14:51 [79509] receiving file list
+2019/11/10 17:14:51 [79509] sent 30 bytes  received 68 bytes  total size 0
+2019/11/10 17:14:55 [79568] receiving file list
+2019/11/10 17:14:55 [79568] sent 42 bytes  received 101 bytes  total size 6
+2019/11/10 17:15:16 [79654] receiving file list
+2019/11/10 17:15:16 [79654] cd+++++++ b/
+2019/11/10 17:15:16 [79654] >f+++++++ b/bar
+2019/11/10 17:15:16 [79654] >f+++++++ b/foo
+2019/11/10 17:15:16 [79654] sent 74 bytes  received 101 bytes  total size 6
+2019/11/10 17:15:40 [79732] receiving file list
+2019/11/10 17:15:40 [79732] .d..t.... ./
+2019/11/10 17:15:40 [79732] >f..t.... bar
+2019/11/10 17:15:40 [79732] >f+++++++ foo
+2019/11/10 17:15:40 [79732] sent 74 bytes  received 98 bytes  total size 6
+2019/11/10 17:16:01 [79809] receiving file list
+2019/11/10 17:16:01 [79809] sent 24 bytes  received 85 bytes  total size 3
+2019/11/10 17:16:12 [79873] receiving file list
+2019/11/10 17:16:12 [79873] sent 24 bytes  received 85 bytes  total size 3
+2019/11/10 17:16:54 [80024] receiving file list
+2019/11/10 17:16:54 [80024] sent 24 bytes  received 85 bytes  total size 3
